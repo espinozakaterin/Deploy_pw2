@@ -10,7 +10,7 @@ export default defineConfig(
     {
         base: '/',
         appType: 'mpa',
-        base :"/Katerin_Aguilar/",
+        base :"/Deploy_pw2/",
         build: {
             rollupOptions: {
                 input: Object.fromEntries(
